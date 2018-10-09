@@ -2,3 +2,4 @@
 [submodule "commonlib"]
 	path = commonlib
 	url = https://github.com/mahtogithub/subModule1.git
+	ignore = dirty
